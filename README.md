@@ -238,5 +238,9 @@ accuracy alone can be a misleading metric on imbalanced datasets, and it
 directly motivates future work on class balancing techniques. The project
 demonstrates the complete NLP workflow — data acquisition, cleaning,
 preprocessing, feature extraction, modeling, evaluation, and error
+
+## 11. Author
+Name: Elsa Elizabeth Issac
+Reg No.: 24UBC230    
 analysis — and identifies concrete, technically grounded directions for
 improvement.
