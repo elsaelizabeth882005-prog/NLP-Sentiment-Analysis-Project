@@ -241,6 +241,3 @@ preprocessing, feature extraction, modeling, evaluation, and error
 
 ## 11. Author
 Name: Elsa Elizabeth Issac
-Reg No.: 24UBC230    
-analysis — and identifies concrete, technically grounded directions for
-improvement.
